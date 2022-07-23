@@ -25,7 +25,7 @@ function agree() {
     } else if (time == null || time == "") {
       alert("Bạn nhập thiếu thời gian rùiii :<");
     } else {
-      alert("Mình sẽ đón bạn " + fullName + " vào lúc " + time + " nha! Tặng một bài hát này nè 🧑‍🎄");
+      alert("Mình sẽ đón bạn " + fullName + " vào lúc " + time + " nha! Tặng một video này nè 🧑‍🎄");
       location.assign("https://www.youtube.com/watch?v=Q_yuO8UNGmY");
     }
   } else {
